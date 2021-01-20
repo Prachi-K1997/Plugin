@@ -1,17 +1,19 @@
-=== Exit Popup ===
-Contributors: Aishwarya Dongare
-Tags: popup, popup message, popup.
-Requires at least: 3.8
-Tested up to: 5.4.1
-Stable tag: 1
+# Pop up plugin 
+
+Contributors: Prachi Kamble 
+Tested up to: 5.6
+Version: 1.0.0
 License: GPLv2
 License URI: <https://www.gnu.org/licenses/gpl-2.0.html>
 
-== Description ==
-Welcome each user visiting the site with customized popup message. The popup can be edited using image as well as text.
+## Description 
+I have created this plugin to enhance the functionality of my website.
+Admin can add any pop up message on any desired page using this plugin.
+I have added some setting options for popup to give more control to admin.
 
-== Installation ==
-Add the plugin by uploading the zip file or by installing it from the Wordpress Plugin directory.
-Activate the plugin and go to the Popup On Exit page.
-Enter your desired message
-Done!
+## Installation
+* Download the zip and extract the folder 
+* Copy the folder in wp-contents/plugins folder
+* Activate the plugin from wp admin
+
+
